@@ -1,8 +1,6 @@
 package synapsemodule
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func Greeting(hour int) {
 	if hour < 12 {

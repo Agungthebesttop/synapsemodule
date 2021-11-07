@@ -10,5 +10,5 @@ func Greeting(hour int) {
 	} else {
 		fmt.Println("Selamat Malam")
 	}
-	fmt.Println(hour)
+	fmt.Println(15)
 }
